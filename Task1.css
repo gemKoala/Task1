@@ -1,0 +1,42 @@
+.div1{
+	background-color:#DC143C;
+	height: 150px;
+	width: 400px;
+	border: 2px solid black;
+	font-family: Segoe UI;
+	font-size: 20px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+.div2{
+	background-color:#FF0000;
+	height: 300px;
+	width: 400px;
+	border: 2px solid black;
+	font-family: Segoe UI;
+	font-size: 20px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	margin-top: 50px;
+	margin-left: 650px;
+	padding: 0 auto;
+}
+.div3{
+	background-color: #B22222;
+	height: 200px;
+	width: 200px;
+	border: 2px solid black;
+	font-family: Segoe UI;
+	font-size: 20px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	margin-top: 25px;
+	margin-left: 350px;
+	padding: 0 auto;
+}
+.block{
+	font-family: Calibri;
+}
+body{
+	background-color: grey;
+}
